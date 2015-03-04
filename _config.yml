@@ -1,5 +1,5 @@
 # Site settings
-title:       abkolan
+title:       abhilash kolanthara
 email:       abkolan+blog@gmail.com
 author:      Abhilash Kolanthara
 description: "Seek ! Therefore you are"
@@ -16,7 +16,7 @@ show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: abkolan
 
 # Social icons
 show_social_icons: true
