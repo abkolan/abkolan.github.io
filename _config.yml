@@ -1,28 +1,28 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       abkolan
+email:       abkolan+blog@gmail.com
+author:      Abhilash Kolanthara
+description: "Seek ! Therefore you are"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://abkolan.github.io"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           false
-show_related_posts: false
-show_post_footers:  false
+animated:           true
+show_related_posts: true
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
-stackoverflow_id:
-twitter_username:
+show_social_icons: true
+github_username: abkolan
+stackoverflow_id: 64497
+twitter_username: abkolan
 google_plus_id:
 linkedin_username:
 bitcoin_url:
