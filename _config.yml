@@ -3,14 +3,14 @@ title:       abkolan
 email:       abkolan+blog@gmail.com
 author:      Abhilash Kolanthara
 description: "Seek ! Therefore you are"
-baseurl:     ""
+baseurl:     "/"
 url:         "http://abkolan.github.io"
 
 # Google analytics
 google_analytics:
 
 # Optional features
-animated:           true
+animated:           false
 show_related_posts: true
 show_post_footers:  true
 
@@ -33,7 +33,7 @@ flattr_button:
 markdown:     redcarpet
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
+permalink:    /:year/:month/:day/:title/
 paginate:     3
 sass:
   compressed: true
