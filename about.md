@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![Why so serious ?](/images/AB.jpg)
+![Why so serious ?](/images/ab.jpg)
 
 I am Abhilash Kolanthara. I am passionate about programming, scalable architecture and optimizing just about anything. I blog mostly about data structures, algorithms, .net and a bit of mathematics too. 
 
