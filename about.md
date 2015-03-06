@@ -1,19 +1,19 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+#About Me
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+[[ /images/AB.jpb | height = 100px ]]
 
-Thanks to the following:
+I am Abhilash Kolanthara. I am passionate about programming, scalable architecture and optimizing just about anything. I blog mostly about data structures, algorithms, .net and a bit of mathematics too. 
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+Usually you would find me rambling about tech when somebody is listening or pretending to be listening. Other things that are hardwired into me are gaming and [cycling](www.strava.com/athletes/abkolan). 
+
+If you would like to get in touch, drop me a line - [abkolan@gmail.com](abkolan+blog@gmail.com)
+
+
+
+<sub>The views expressed on this site are my own and not my employer's nor my [cat's]( https://instagram.com/p/y4BQ9LCGjK/).<sub>
