@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-
-![Why so serious ?](/images/ab.jpg)
+<a href="why so serious ?"><img src="/images/ab.jpg" align="center" height="250" width="250" ></a>
 
 I am Abhilash Kolanthara. I am passionate about programming, scalable architecture and optimizing just about anything. I blog mostly about data structures, algorithms, .net and a bit of mathematics too. 
 
