@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About Me
+title: 
 permalink: /about/
 ---
-<p align="center">
-  <img src="/images/ab.png" alt="AB"/>
-</p>
+![me](/images/ab.png)
+
 I am Abhilash Kolanthara. I am passionate about programming, scalable architecture and optimizing just about anything. I blog *mostly* about data structures, algorithms, .net and a bit of mathematics too. 
 
 Usually you would find me rambling about tech when somebody is listening or pretending to be listening. Other things that are hardwired into me are gaming and [cycling](www.strava.com/athletes/abkolan). 
