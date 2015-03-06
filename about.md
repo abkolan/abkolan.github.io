@@ -9,7 +9,7 @@ I am Abhilash Kolanthara. I am passionate about programming, scalable architectu
 
 Usually you would find me rambling about tech when somebody is listening or pretending to be listening. Other things that are hardwired into me are gaming and [cycling](www.strava.com/athletes/abkolan). 
 
-If you would like to get in touch, drop me a line  [abkolan@gmail.com](abkolan+blog@gmail.com).
+If you would like to get in touch, drop me a line at [abkolan@gmail.com](abkolan+blog@gmail.com).
 
 
 
