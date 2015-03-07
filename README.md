@@ -3,7 +3,7 @@
 Github repo of my tech blog - [semikolan.net](http://semikolan.net)
 
 The blog is powered by [Jekyll](http://jekyllrb.com/). Jekyll is a simple, blog-aware, static site generator written in ruby.
-All the posts are written in [markdown](http://daringfireball.net/projects/markdown/), like [the one](https://raw.githubusercontent.com/abkolan/abkolan.github.io/master/README.md) you are reading. If you have posted on sites like [reddit](http://reddit.com) or [stackoverflow](http://stackoverflow) you already know what markdown is. These markdown files then committed to your repo, lo and behold and your post is published. Unlike wordpress there is no database. 
+All the posts are written in [markdown](http://daringfireball.net/projects/markdown/), like [the one](https://raw.githubusercontent.com/abkolan/abkolan.github.io/master/README.md) you are reading. If you have posted on sites like [reddit](http://reddit.com) or [stackoverflow](http://stackoverflow) you already know what markdown is. These markdown files then committed to your repo and Bob's your uncle - your post is published. Unlike wordpress there is no database. 
 
 The entire source of Jekyll is available on github [here](https://github.com/jekyll/jekyll). Feel free to have a look see. There are also numerous tutorials like [this one by Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) or [this one by author of Jekyll, who is also the co-founder of github](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) on how to get started on Jekyll and start blogging like a hacker.  
 
