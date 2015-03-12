@@ -2,11 +2,11 @@
 layout:     post
 title:      Here we go again
 date:       2015-03-08 23:31:19
-summary:    Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+summary:    how I stopped worrying about database in blogging and love static site aggregation
 categories: jekyll blog
 ---
 
-Alright after a hiatus, I'm back to blogging again. I am hoping that this blog would serve as a journal of note to self that help me understand few concepts clearly.
+Alright after a *long* hiatus, I'm back to blogging again. I am hoping that this blog would serve as a journal of note to self that help me understand few concepts clearly.
 
 The blog is powered by [Jekyll](http://jekyllrb.com/). Jekyll is a simple, blog-aware, static site generator written in Ruby.
 All the posts are written in [markdown](http://daringfireball.net/projects/markdown/), like [the one](https://raw.githubusercontent.com/abkolan/abkolan.github.io/master/README.md) you are reading. If you have posted on sites like [reddit](http://reddit.com) or [stackoverflow](http://stackoverflow), you already know what markdown is. These markdown files are then committed to your repo and Bob's your uncle - your post is published. Unlike wordpress there is no database. 
