@@ -8,7 +8,7 @@ categories: c# assembler
 
 Writing an assembler was something I always wanted to do for quite sometime now and finally wrote one. 
 
-##Understanding an Assembler
+###Understanding an Assembler
 
 An assembler is a system software program that takes a low level language like an assembly language that looks like this.
 
@@ -35,7 +35,5 @@ To machine code that looks like this
 
     0x7cc1 0x8000 0x7c61 0x0011 0x8572 0x7f81 0x000f 0x2c01 0x7c0b 0x7000 0x01c1 0x8862 0x88c2 0x7f81 0x0004 0x7f81 0x000f 0x0048 0x0065 0x006c 0x006c 0x006f 0x002c 0x0020 0x0057 0x006f 0x0072 0x006c 0x0064 0x0021 0x0000
 
-If you are new to all this, you would probably be having at least 2 questions. 
 
-*How* do you convert an assembly language code to those hex looking numbers
-*why* do those hex looking numbers mean ? What should happen to it ?
+Took two days for me to get this up and running, the most part of the time was spent on understanding the DCPU 16 spec. Here is the [end result](https://github.com/abkolan/dcpu16).
