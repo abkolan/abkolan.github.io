@@ -1,6 +1,6 @@
-# semikolan.net
+# semikolan.xyz
 
-Github repo of my tech blog - [semikolan.net](http://semikolan.net)
+Github repo of my tech blog - [semikolan.xyz](http://semikolan.xyz)
 
 The blog is powered by [Jekyll](http://jekyllrb.com/). Jekyll is a simple, blog-aware, static site generator written in Ruby.
 All the posts are written in [markdown](http://daringfireball.net/projects/markdown/), like [the one](https://raw.githubusercontent.com/abkolan/abkolan.github.io/master/README.md) you are reading. If you have posted on sites like [reddit](http://reddit.com) or [stackoverflow](http://stackoverflow), you already know what markdown is. These markdown files are then committed to your repo and Bob's your uncle - your post is published. Unlike wordpress there is no database. 
