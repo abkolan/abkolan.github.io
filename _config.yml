@@ -2,7 +2,7 @@
 title:       semikolan.net
 email:       abkolan+blog@gmail.com
 author:      Abhilash Kolanthara
-description: "Seek ! Therefore you are"
+description: "Ramble on"
 baseurl:     ""
 url:         "http://abkolan.github.io"
 
@@ -22,15 +22,15 @@ disqus_shortname: semikolan
 show_social_icons: true
 github_username: abkolan
 stackoverflow_id: 64497
-twitter_username: abkolan
-google_plus_id: +AbhilashKolanthara
+#twitter_username: abkolan
+#google_plus_id: +AbhilashKolanthara
 linkedin_username: abhilashkolanthara
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Build settings
-markdown:     redcarpet
+markdown:
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    "/:year/:month/:day/:title/"
